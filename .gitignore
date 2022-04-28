@@ -1,0 +1,14 @@
+back/venv
+back/db.sqlite3
+__pycache__/
+.idea/
+*.pem
+*.zip
+.vscode/
+media/
+back/.coverage
+*/node_modules
+*/cdk.out
+*.js
+*.d.ts
+venv
